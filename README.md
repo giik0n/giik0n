@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m currently working on my new app "My project" 🔥
 
 #### 💻 Stack I Work With
 
