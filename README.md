@@ -1,4 +1,4 @@
-<p align="center"><a href="url"><img src="https://i.imgur.com/MUcVSW4.gif" height="auto" width="40%" style="border-radius:50%"></a>
+<p align="center"><a href="#"><img src="https://i.imgur.com/MUcVSW4.gif" height="auto" width="40%" style="border-radius:50%"></a>
 </p>
 
 I’m currently working on my new app "My project" 🔥
@@ -24,6 +24,12 @@ I’m currently working on my new app "My project" 🔥
     <img src="https://github-readme-stats.vercel.app/api?username=giik0n&count_private=true&show_icons=true&theme=react" alt="devded" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giik0n&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=react" alt="devded" height="165" />
  </p>
+
+## Connect me
+<a href="https://www.linkedin.com/in/alexander-panyshchev-b74051173/"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" height="auto" width="50px" style="border-radius:50%"></a>
+<a href="https://www.facebook.com/profile.php?id=100007291185095"><img src="https://i.pinimg.com/originals/d2/e5/35/d2e5359f8402cb8d3d7b22c463f9013b.png" height="auto" width="50px" style="border-radius:50%"></a>
+
+
 <!--
 **giik0n/giik0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
