@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 ## My GitHub stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=giik0n&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-## My GitHub Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giik0n&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+ <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=giik0n&count_private=true&show_icons=true&theme=react" alt="devded" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giik0n&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=react" alt="devded" height="165" />
+ </p>
 <!--
 **giik0n/giik0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
