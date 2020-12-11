@@ -5,6 +5,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/IOS-3f3f3f.svg?&style=for-the-badge&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/flutter-33D1FF.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
