@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align="center"><a href="#"><img width="40%" height="auto" src="https://i.imgur.com/MUcVSW4.gif" height="50px"/></a>
+</p>
 I’m currently working on my new app "My project" 🔥
 
 #### 💻 Stack I Work With
