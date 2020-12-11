@@ -1,4 +1,4 @@
-<p align="center"><a href="url"><img src="https://i.imgur.com/MUcVSW4.gif" height="auto" width="200" style="border-radius:50%"></a>
+<p align="center"><a href="url"><img src="https://i.imgur.com/MUcVSW4.gif" height="auto" width="40%" style="border-radius:50%"></a>
 </p>
 
 I’m currently working on my new app "My project" 🔥
