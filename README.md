@@ -1,7 +1,7 @@
 <p align="center"><a href="#"><img src="https://i.imgur.com/MUcVSW4.gif" height="auto" width="40%" style="border-radius:50%"></a>
 </p>
 
-I’m currently working on my new app "My project" 🔥
+I’m currently making my new app with cooking recipes "CookIT" 🔥
 
 #### 💻 Stack I Work With
 
