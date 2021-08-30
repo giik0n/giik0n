@@ -1,4 +1,4 @@
-<p align="center"><img src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2"></p>
+<p align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47i3yigo8rdpiuaxaadmwonvb1xnq5firs71bxqyhe&rid=giphy.gif&ct=s"></p>
 
 
 I’m currently making my new app with cooking recipes "CookIT" 🔥
