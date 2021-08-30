@@ -1,5 +1,5 @@
-<p align="center"><iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p>
-</p>
+<p align="center"><img src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2"></p>
+
 
 I’m currently making my new app with cooking recipes "CookIT" 🔥
 
