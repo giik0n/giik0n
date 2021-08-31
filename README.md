@@ -1,6 +1,6 @@
 <p align="center"><img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" height="300px"></p>
 
-# < Hi, I'm Alex />
+# < Hi, I'm Alex! />
 
 <img src="https://media.giphy.com/media/lr1QZ7prMwwkqSSVLa/giphy.gif?cid=ecf05e479wkitcwj8i2618ix6sa2e27pvwgrkb3h4dc1fbxi&rid=giphy.gif&ct=s" width = "50" >
 
@@ -70,19 +70,3 @@
 <a href="https://www.linkedin.com/in/alexander-panyshchev-b74051173/"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" height="auto" width="50px" style="border-radius:50%"></a>
 <a href="https://www.facebook.com/profile.php?id=100007291185095"><img src="https://i.pinimg.com/originals/d2/e5/35/d2e5359f8402cb8d3d7b22c463f9013b.png" height="auto" width="50px" style="border-radius:50%"></a>
 <a href="https://t.me/giik0n"><img src="https://pnggrid.com/wp-content/uploads/2021/04/square-telegram-1024x934.png" height="50px" width="50px" style="border-radius:50%"></a>
-
-
-<!--
-**giik0n/giik0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
